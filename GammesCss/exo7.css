@@ -1,0 +1,87 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+#carre-beige {
+    margin-top: 50px;
+    background-color: burlywood;
+    border: 4px dashed fuchsia;
+    height: 700px;
+    width: 700px;
+    justify-content: center;
+}
+#rond-blanc-1 {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+#rond-blanc-2 {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#yeux-nez {
+    background-color: burlywood;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#rond-orange-1 {
+    background-color: orange;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 30px
+}
+#rond-orange-2 {
+    background-color: orange;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+#rond-vert {
+    background-color: greenyellow;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-top: 250px;
+}
+#bouche {
+    height: 350px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+}
+#rectangle-violet {
+    margin-top: 50px;
+    background-color: rgb(255, 97, 123);
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+#dent-1 {
+    background-color: white;
+    height: 70px;
+    width: 50px;
+    margin-right: 10px;
+}
+#dent-2 {
+    background-color: white;
+    height: 70px;
+    width: 50px;
+    margin-left: 10px;
+}

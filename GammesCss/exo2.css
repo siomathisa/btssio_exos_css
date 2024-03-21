@@ -1,0 +1,14 @@
+#grand-rouge {
+    height : 200px;
+    background-color: red;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border : 5px solid blue;
+}
+.petit-vert {
+    height : 50px;
+    width: 50px;
+    background-color: green;
+    margin: 5px;
+}

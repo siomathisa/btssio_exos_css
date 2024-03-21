@@ -1,0 +1,27 @@
+body{
+    background-color: cadetblue;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-top: 50px;
+}
+.grand-gris{
+    background-color: grey;
+    height: 100px;
+    width: 200px;
+    display: flex;
+    border: 1px solid white;
+    justify-content: space-around;
+    align-items: center;
+}
+.petit-orange{
+    background-color: rgb(255, 198, 91);
+    height: 50px;
+    width: 50px;
+}
+.petit-blanc{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}

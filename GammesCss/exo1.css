@@ -1,0 +1,21 @@
+#grand-bleu {
+    height : 200px;
+    background-color: rgb(52, 52, 180);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.petit-rouge {
+    height : 50px;
+    width: 50px;
+    background-color: red;
+}
+#grand-blanc {
+    display : flex;
+    justify-content: center;
+}
+#rouge{
+    border: 1px solid red;
+    height: 50px;
+    width: 50px;
+}
